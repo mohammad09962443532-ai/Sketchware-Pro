@@ -3,6 +3,8 @@ package pro.sketchware;
 import android.app.Application;
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.Configuration;
+import java.util.Locale;
 import android.os.Process;
 import android.util.Log;
 
@@ -14,6 +16,14 @@ import pro.sketchware.utility.AnalyticsHelper;
 import pro.sketchware.utility.theme.ThemeManager;
 
 public class SketchApplication extends Application {
+    @Override
+    protected void attachBaseContext(Context base) {
+        Configuration config = new Configuration(base.getResources().getConfiguration());
+        config.setLocale(new Locale("fa"));
+        config.setLayoutDirection(new Locale("fa"));
+        super.attachBaseContext(base.createConfigurationContext(config));
+    }
+
     private static Context mApplicationContext;
 
     public static Context getContext() {
