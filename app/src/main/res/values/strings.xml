@@ -495,7 +495,7 @@ ACTION_CALL، ACTION_DIAL
 
 ACTION_VIEW
  نوع url (http://sketchware.io)"</string>
-    <string name="property_description_edittext_ime_options">زمانی که single_line 'false' و input_type 'text' باشد کار نمی کند."</string>
+    <string name="property_description_edittext_ime_options">"It does not work when single_line is 'false' and input_type is 'text'"</string>
     <string name="property_divider_height">ارتفاع تقسیم کننده</string>
     <string name="property_first_day_of_week">اولین روز هفته</string>
     <string name="property_gravity">جاذبه</string>
