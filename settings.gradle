@@ -4,8 +4,8 @@ plugins {
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
+        maven { url = uri("https://maven.aliyun.com/repository/google") }
         google()
-        maven { url = uri("https://maven-central.storage-download.googleapis.com/maven2") }
         mavenCentral()
         maven { url = uri("https://jitpack.io") }
         maven { url = uri("https://s01.oss.sonatype.org/content/repositories/snapshots") }
