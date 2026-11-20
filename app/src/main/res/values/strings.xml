@@ -32,26 +32,26 @@
     <string name="component_add_docs_button_title_go_to_docs">مستندات را بخوانید</string>
     <string name="component_add_message_docs_updated_soon">صفحه اسناد به زودی به روز می شود</string>
     <string name="component_context_menu_title_delete_component">کامپوننت را حذف کنید</string>
-    <string name="component_description_bluetooth_connect">Bluetooth Connect برای اتصال به دستگاه دیگری از طریق بلوتوث استفاده می شود.</string>
+    <string name="component_description_bluetooth_connect">اتصال بلوتوث برای اتصال به دستگاه دیگری از طریق بلوتوث استفاده می‌شود.</string>
     <string name="component_description_calendar">تقویم برای محاسبه زمان و تاریخ استفاده می شود</string>
     <string name="component_description_camera">دوربین برای گرفتن عکس استفاده می شود.</string>
     <string name="component_description_dialog">از دیالوگ برای ایجاد یک پاپ آپ استفاده می شود</string>
     <string name="component_description_file">فایل برای ذخیره داده ها به صورت محلی استفاده می شود</string>
-    <string name="component_description_file_picker">FilePicker برای انتخاب فایل های خام و رسانه ای مانند تصاویر، صداها و متن استفاده می شود.</string>
+    <string name="component_description_file_picker">انتخاب‌گر فایل برای انتخاب فایل‌های خام و رسانه‌ای مانند تصویر، صدا و متن استفاده می‌شود.</string>
     <string name="component_description_file_picker_guide_mime_type_example">"نوع MIME برای شناسایی یک نوع داده استفاده می شود.
 ex)\"*/*\"، \"تصویر/*\"، \"صوتی/*\"، \"متن/*\""</string>
-    <string name="component_description_firebase_auth">Firebase Auth امکان احراز هویت آنلاین کاربر را فراهم می کند</string>
-    <string name="component_description_firebase_storage">Firebase Storage برای توسعه دهندگان برنامه ساخته شده است که نیاز به ذخیره و ارائه محتوای تولید شده توسط کاربر دارند.</string>
+    <string name="component_description_firebase_auth">احراز هویت Firebase امکان ورود و شناسایی کاربران را فراهم می‌کند.</string>
+    <string name="component_description_firebase_storage">فضای ذخیره‌سازی Firebase برای ذخیره و ارائه محتوای کاربران استفاده می‌شود.</string>
     <string name="component_description_gyrosope"> "ژیروسکوپ سرعت چرخش را بر حسب راد بر ثانیه حول محور x، y و z دستگاه اندازه گیری می کند."</string>
-    <string name="component_description_intent">Intent برای شروع یک Activity جدید استفاده می شود</string>
+    <string name="component_description_intent">Intent برای شروع یک فعالیت جدید استفاده می‌شود.</string>
     <string name="component_description_interstitial_ad">تبلیغات بینابینی به شما امکان می دهد تبلیغات تمام صفحه اضافه کنید.</string>
-    <string name="component_description_location_manager">LocationManager برای بارگیری داده های مکان فعلی استفاده می شود</string>
-    <string name="component_description_mediaplayer">MediaPlayer برای پخش فایل های صوتی بزرگ استفاده می شود</string>
-    <string name="component_description_objectanimator">ObjectAnimator برای متحرک سازی ویژگی های خاص یک View استفاده می شود</string>
-    <string name="component_description_request_network">RequestNetwork برای برقراری تماس های Web API استفاده می شود</string>
-    <string name="component_description_soundpool">SoundPool برای پخش جلوه های صوتی کوتاه استفاده می شود</string>
-    <string name="component_description_speech_to_text">SpeechToText برای تبدیل گفتار به متن استفاده می شود</string>
-    <string name="component_description_text_to_speech">TextToSpeech برای تبدیل متن به گفتار استفاده می شود</string>
+    <string name="component_description_location_manager">مدیریت مکان برای دریافت اطلاعات مکان فعلی استفاده می‌شود.</string>
+    <string name="component_description_mediaplayer">پخش‌کننده رسانه برای پخش فایل‌های صوتی استفاده می‌شود.</string>
+    <string name="component_description_objectanimator">متحرک‌سازی ویژگی‌های یک نما با ObjectAnimator انجام می‌شود.</string>
+    <string name="component_description_request_network">RequestNetwork برای برقراری ارتباط با رابط‌های برنامه‌نویسی وب استفاده می‌شود.</string>
+    <string name="component_description_soundpool">SoundPool برای پخش جلوه‌های صوتی کوتاه استفاده می‌شود.</string>
+    <string name="component_description_speech_to_text">تبدیل گفتار به متن</string>
+    <string name="component_description_text_to_speech">تبدیل متن به گفتار</string>
     <string name="component_description_timer">تایمر برای به تاخیر انداختن برخی اقدامات استفاده می شود</string>
     <string name="component_description_vibrator">ویبراتور برای ارتعاش دستگاه استفاده می شود</string>
     <string name="component_file_hint_enter_file_name">نام فایل را وارد کنید</string>
@@ -78,19 +78,19 @@ ex)\"*/*\"، \"تصویر/*\"، \"صوتی/*\"، \"متن/*\""</string>
     <string name="design_drawer_menu_description_image">عکس ها و نمادها را وارد کنید</string>
     <string name="design_drawer_menu_description_library">تنظیمات کامپوننت</string>
     <string name="design_drawer_menu_description_sound">موسیقی و جلوه های صوتی را وارد کنید</string>
-    <string name="design_drawer_menu_description_source_code">مشاهده فایل های جاوا و XML داخلی</string>
+    <string name="design_drawer_menu_description_source_code">مشاهده فایل‌های داخلی جاوا و XML</string>
     <string name="design_drawer_menu_description_view">چندین صفحه نمایش را مدیریت کنید</string>
-    <string name="design_drawer_menu_description_xml_command">فایل های XML داخلی را تغییر دهید</string>
+    <string name="design_drawer_menu_description_xml_command">ویرایش فایل‌های XML داخلی</string>
     <string name="design_drawer_menu_title">پیکربندی</string>
     <string name="design_drawer_menu_title_collection">مدیر مجموعه</string>
     <string name="design_drawer_menu_title_font">مدیر فونت</string>
     <string name="design_drawer_menu_title_sound">مدیر صدا</string>
     <string name="design_drawer_menu_title_source_code">نمایش کد منبع</string>
     <string name="design_drawer_menu_title_view">مشاهده مدیر</string>
-    <string name="design_drawer_menu_title_xml_command">مدیریت فرمان XML</string>
+    <string name="design_drawer_menu_title_xml_command">مدیریت فرمان‌های XML</string>
     <string name="design_file_selector_title_java">فایل های جاوا موجود</string>
-    <string name="design_library_admob_button_goto_console">کنسول AdMob را باز کنید</string>
-    <string name="design_library_admob_button_goto_setting">تنظیمات AdMob را باز کنید</string>
+    <string name="design_library_admob_button_goto_console">رفتن به کنسول تبلیغات</string>
+    <string name="design_library_admob_button_goto_setting">رفتن به تنظیمات تبلیغات</string>
     <string name="design_library_admob_button_manual_add_to_adunit">به صورت دستی اضافه کنید</string>
     <string name="design_library_admob_button_set_test_device">دستگاه های آزمایشی را اضافه کنید</string>
     <string name="design_library_admob_dialog_add_adunit_hint_adunit_name">نام واحد تبلیغات</string>
@@ -120,12 +120,12 @@ ex)\"*/*\"، \"تصویر/*\"، \"صوتی/*\"، \"متن/*\""</string>
     <string name="design_library_admob_title_ad_name">نام آگهی</string>
     <string name="design_library_admob_title_ad_unit_id">شناسه واحد تبلیغات</string>
     <string name="design_library_admob_title_admob">AdMob</string>
-    <string name="design_library_admob_title_admob_manager">مدیر AdMob</string>
+    <string name="design_library_admob_title_admob_manager">مدیریت AdMob</string>
     <string name="design_library_admob_title_app_id">شناسه برنامه</string>
     <string name="design_library_admob_title_banner">بنر AD</string>
     <string name="design_library_admob_title_interstitial">بینابینی AD</string>
     <string name="design_library_appcompat_description">فعال کردن کتابخانه App Compat به شما امکان می دهد طرح بندی کشو و دکمه عمل شناور را به فعالیت ها اضافه کنید.</string>
-    <string name="design_library_material_3_description">فعال کردن Material 3 جدیدترین اصول طراحی Material You را در برنامه شما فعال می‌کند و رابطی مدرن‌تر و از نظر بصری جذاب‌تر با اجزای قابل تنظیم و گزینه‌های موضوعی پیشرفته‌تر ارائه می‌دهد.</string>
+    <string name="design_library_material_3_description">با فعال کردن متریال ۳، جدیدترین اصول طراحی متریال یو در برنامه اعمال می‌شود و رابط کاربری مدرن‌تر، جذاب‌تر و دارای اجزای قابل تنظیم و گزینه‌های پیشرفته‌تر برای تغییر ظاهر خواهد بود.</string>
     <string name="design_library_material_3_enable_warning">لطفاً توجه داشته باشید که فعال کردن این کتابخانه ممکن است بر طراحی و ظاهر کلی برنامه تأثیر بگذارد، به خصوص اگر پروژه قدیمی‌تری باشد. توصیه می شود قبل از فعال سازی تغییرات را تأیید کنید و از سازگاری با تنظیمات فعلی خود اطمینان حاصل کنید.</string>
     <string name="design_library_material_3_theme_mode_description">انتخاب حالت تم به شما امکان می‌دهد ظاهر برنامه را شخصی کنید، یادداشت‌ها:\n
 1. انتخاب طرح زمینه «DayNight» برای یک تجربه تطبیقی که به طور خودکار بین «روشن» و «تاریک» بر اساس تنظیمات سیستم جابه‌جا می‌شود\n
@@ -139,7 +139,7 @@ ex)\"*/*\"، \"تصویر/*\"، \"صوتی/*\"، \"متن/*\""</string>
     <string name="design_library_description_appcompat_and_design">طرح بندی کشو، دکمه اکشن شناور</string>
     <string name="design_library_description_firebase">از پایگاه داده و احراز هویت Firebase استفاده کنید</string>
     <string name="design_library_description_google_map">از نقشه گوگل استفاده کنید</string>
-    <string name="design_library_firebase_button_goto_firebase_console">به کنسول Firebase بروید</string>
+    <string name="design_library_firebase_button_goto_firebase_console">رفتن به کنسول Firebase</string>
     <string name="design_library_firebase_description_about_firebase">"Firebase Realtime Database پایگاه داده NoSQL مبتنی بر ابر گوگل است که می توانید داده ها را در زمان واقعی ذخیره و همگام سازی کنید."</string>
     <string name="design_library_firebase_dialog_description_confirm_uncheck_firebase">اگر تیک گزینه Firebase DB را بردارید، اجزای Firebase موجود حذف خواهند شد. آیا مطمئن هستید که می خواهید ادامه دهید؟</string>
     <string name="design_library_firebase_guide_path_example">"مسیری که از ریشه شروع می شود.
@@ -155,14 +155,13 @@ ex)\"users/username\""</string>
     <string name="design_library_firebase_setting_step3_title">بررسی تنظیمات</string>
     <string name="design_library_firebase_title_api_key">کلید API</string>
     <string name="design_library_firebase_title_firebase">Firebase</string>
-    <string name="design_library_firebase_title_firebase_manager">مدیر Firebase</string>
-    <string name="design_library_firebase_title_project_id">URL کامل پایگاه داده (به عنوان مثال sk-pro-default-rtdb.firebaseio.com)</string>
-    <string name="design_library_firebase_title_storage_bucket_url">URL سطل ذخیره سازی</string>
+    <string name="design_library_firebase_title_firebase_manager">مدیریت Firebase</string>
+    <string name="design_library_firebase_title_project_id">آدرس کامل پایگاه داده</string>
+    <string name="design_library_firebase_title_storage_bucket_url">آدرس فضای ذخیره‌سازی</string>
     <string name="design_library_google_map_button_open_doc">باز کردن اسناد</string>
     <string name="design_library_google_map_title">گوگل مپ</string>
-    <string name="design_library_google_maps_description_operate_normally">«نمای نقشه Google قابل اجرا است.
-برای عملکرد عادی نقشه باید کلید API را وارد کنید."</string>
-    <string name="design_library_guide_setup_first">برای استفاده از این کامپوننت، ابتدا باید تنظیمات را در Library Manager تنظیم کنید.</string>
+    <string name="design_library_google_maps_description_operate_normally">برای عملکرد صحیح نقشه گوگل، باید کلید API را وارد کنید.</string>
+    <string name="design_library_guide_setup_first">برای استفاده از این مؤلفه، ابتدا تنظیمات را در مدیریت کتابخانه انجام دهید.</string>
     <string name="design_library_message_confirm_uncheck_appcompat_and_design">طرح بندی کشو و FAB موجود حذف خواهد شد. آیا می خواهید ادامه دهید؟</string>
     <string name="design_library_message_confirm_uncheck_google_map">MapView موجود حذف خواهد شد. آیا می خواهید ادامه دهید؟</string>
     <string name="design_library_message_slow_down_compilation_time">گنجاندن کتابخانه ممکن است زمان گردآوری را در دستگاه‌های خاصی کاهش دهد.</string>
@@ -172,7 +171,7 @@ ex)\"users/username\""</string>
     <string name="design_manager_block_detail_actionbar_title">جزئیات بلوک</string>
     <string name="design_manager_block_hint_enter_block_name">نام بلوک را وارد کنید</string>
     <string name="design_manager_change_name_button">تغییر نام</string>
-    <string name="design_manager_font_description_guide_add_font">اضافه کردن فایل های فونت با پسوند ttf</string>
+    <string name="design_manager_font_description_guide_add_font">افزودن فایل‌های فونت با پسوند ttf</string>
     <string name="design_manager_font_hint_enter_font_name">نام فونت را وارد کنید</string>
     <string name="design_manager_font_title_add_font">فونت اضافه کنید</string>
     <string name="design_manager_font_title_apply_same_naming">همان سبک نامگذاری را برای سایر فونت های موجود اعمال کنید</string>
@@ -180,8 +179,7 @@ ex)\"users/username\""</string>
     <string name="design_manager_font_title_edit_font_name">ویرایش نام قلم</string>
     <string name="design_manager_icon_actionbar_title">نماد واردات</string>
     <string name="design_manager_icon_hint_enter_icon_name">نام نماد را وارد کنید</string>
-    <string name="design_manager_image_description_guide_add_image">"اگر تصویری را در اینجا اضافه کنید
- می توانید از آن به عنوان یک نماد یا ImageView استفاده کنید"</string>
+    <string name="design_manager_image_description_guide_add_image">با افزودن تصویر در اینجا، می‌توانید از آن به‌عنوان آیکون یا تصویر استفاده کنید.</string>
     <string name="design_manager_image_hint_enter_image_name">نام تصویر را وارد کنید</string>
     <string name="design_manager_image_title_add_image">اضافه کردن تصویر</string>
     <string name="design_manager_image_title_apply_same_naming">همان سبک نامگذاری را برای سایر تصاویر موجود اعمال کنید</string>
@@ -204,7 +202,7 @@ ex)\"users/username\""</string>
     <string name="design_manager_tab_title_this_project">این پروژه</string>
     <string name="design_manager_view_description_guide_create_activity">برای ایجاد یک فعالیت جدید، آن را در اینجا اضافه کنید</string>
     <string name="design_manager_view_description_guide_create_custom_view">یک نمای سفارشی جدید در اینجا ایجاد کنید</string>
-    <string name="design_manager_view_description_guide_use_custom_view">از نمای سفارشی می توان برای تغییر نحوه نمایش موارد در ListView یا Spinner استفاده کرد</string>
+    <string name="design_manager_view_description_guide_use_custom_view">نمای سفارشی برای تغییر نحوه نمایش موارد در فهرست یا انتخاب‌گر استفاده می‌شود.</string>
     <string name="design_manager_view_hint_enter_view_name">نام نما را وارد کنید</string>
     <string name="design_manager_view_message_no_view">هیچ نمائی برای نمایش وجود ندارد</string>
     <string name="design_manager_view_message_slow_down">شامل کشو یا FAB ممکن است زمان کامپایل را در دستگاه‌های خاصی کاهش دهد.</string>
@@ -249,7 +247,7 @@ ex)\"users/username\""</string>
     <string name="event_on_data_sent">onDataSent</string>
     <string name="event_on_error_response">onErrorResponse</string>
     <string name="event_on_location_changed">onLocationChanged</string>
-    <string name="event_on_map_ready">روی MapReady</string>
+    <string name="event_on_map_ready">آماده شدن نقشه</string>
     <string name="event_on_marker_clicked">onMarkerClicked</string>
     <string name="event_on_response">onResponse</string>
     <string name="event_on_speech_error">onSpeechError</string>
@@ -258,7 +256,7 @@ ex)\"users/username\""</string>
     <string name="event_onadfailedtoload">onAdFailedToLoad</string>
     <string name="event_onadloaded">onAdLoaded</string>
     <string name="event_onadopened">onAdOpened</string>
-    <string name="event_onanimationcancel">در Animation Cancel</string>
+    <string name="event_onanimationcancel">لغو انیمیشن</string>
     <string name="event_onanimationend">در AnimationEnd</string>
     <string name="event_onanimationstart">در AnimationStart</string>
     <string name="event_onbackpressed">روی دکمه برگشت فشار دهید</string>
@@ -338,7 +336,7 @@ ex)\"users/username\""</string>
     <string name="logic_editor_title_add_new_variable">متغیر جدید اضافه کنید</string>
     <string name="logic_editor_title_block_collection">مجموعه بلوک من</string>
     <string name="logic_editor_title_enter_data_value">مقدار داده را وارد کنید</string>
-    <string name="logic_editor_title_enter_number_value">مقدار Number را وارد کنید</string>
+    <string name="logic_editor_title_enter_number_value">مقدار عددی را وارد کنید</string>
     <string name="logic_editor_title_enter_string_value">مقدار رشته را وارد کنید</string>
     <string name="logic_editor_title_location_manager_provider_type">نوع ارائه دهنده را انتخاب کنید</string>
     <string name="logic_editor_title_mapview_map_type">نوع نقشه را انتخاب کنید</string>
@@ -349,11 +347,11 @@ ex)\"users/username\""</string>
     <string name="logic_editor_title_request_network_method">روش را انتخاب کنید</string>
     <string name="logic_editor_title_request_network_request_type">نوع درخواست را انتخاب کنید</string>
     <string name="logic_editor_title_select_activity">فعالیت را انتخاب کنید</string>
-    <string name="logic_editor_title_select_animator_interpolator">interpolator را انتخاب کنید</string>
+    <string name="logic_editor_title_select_animator_interpolator">انتخاب نوع شتاب حرکت</string>
     <string name="logic_editor_title_select_animator_repeat_mode">حالت تکرار را انتخاب کنید</string>
     <string name="logic_editor_title_select_animator_target_property">ویژگی هدف را انتخاب کنید</string>
     <string name="logic_editor_title_select_cache_mode">حالت کش را انتخاب کنید</string>
-    <string name="logic_editor_title_select_component_bluetooth_connect">Bluetooth Connect Component را انتخاب کنید</string>
+    <string name="logic_editor_title_select_component_bluetooth_connect">مؤلفه اتصال بلوتوث را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_calendar">جزء تقویم را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_calendar_field">فیلد تقویم را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_camera">جزء دوربین را انتخاب کنید</string>
@@ -367,7 +365,7 @@ ex)\"users/username\""</string>
     <string name="logic_editor_title_select_component_intent_action">اقدام قصد را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_intent_flags">پرچم قصد را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_interstitialad">جزء تبلیغات بینابینی را انتخاب کنید</string>
-    <string name="logic_editor_title_select_component_location_manager">Component Manager Location را انتخاب کنید</string>
+    <string name="logic_editor_title_select_component_location_manager">مؤلفه مدیریت مکان را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_mediaplayer">جزء MediaPlayer را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_objectanimator">جزء ObjectAnimator را انتخاب کنید</string>
     <string name="logic_editor_title_select_component_request_network">جزء RequestNetwork را انتخاب کنید</string>
@@ -401,7 +399,7 @@ ex)\"users/username\""</string>
     <string name="logic_more_block_message_missed_resource_exist">"برخی از منابع را نمی توان به مجموعه اضافه کرد. لطفاً منابع را بررسی کنید."</string>
     <string name="logic_more_block_message_resource_added">منابع موجود به طور خودکار به مجموعه اضافه می شوند.</string>
     <string name="logic_more_block_title_add_variable_resource">متغیر و منبع به صورت خودکار اضافه می شود</string>
-    <string name="logic_more_block_title_change_block_name">نام Moreblock را ویرایش کنید</string>
+    <string name="logic_more_block_title_change_block_name">ویرایش نام بلوک بیشتر</string>
     <string name="logic_variable_type_boolean">بولی</string>
     <string name="logic_variable_type_list_map">فهرست نقشه</string>
     <string name="logic_variable_type_list_number">شماره فهرست</string>
@@ -419,7 +417,7 @@ ex)\"users/username\""</string>
     <string name="myprojects_export_project_actionbar_title">پروژه صادرات</string>
     <string name="myprojects_export_project_button_export_src">کد منبع را صادر کنید</string>
     <string name="myprojects_export_project_button_send_src_zip">فایل زیپ کد منبع را ارسال کنید</string>
-    <string name="myprojects_export_project_button_sign_apk">APK را امضا کنید</string>
+    <string name="myprojects_export_project_button_sign_apk">امضای APK</string>
     <string name="myprojects_export_project_title_export_src">کد منبع برای اندروید استودیو</string>
     <string name="myprojects_export_project_title_local_path">مسیر محلی</string>
     <string name="myprojects_export_src_chooser_title_email">ایمیل را انتخاب کنید</string>
@@ -435,7 +433,7 @@ ex)\"users/username\""</string>
     <string name="myprojects_settings_description_create_icon">برای ایجاد نماد جدید ضربه بزنید</string>
     <string name="myprojects_settings_hint_enter_application_name">نام برنامه را وارد کنید</string>
     <string name="myprojects_settings_hint_enter_project_name">نام پروژه</string>
-    <string name="myprojects_settings_message_contain_dot">نام بسته باید حاوی حداقل یک یا چند کاراکتر Dot(.) باشد</string>
+    <string name="myprojects_settings_message_contain_dot">نام بسته باید حداقل یک نقطه داشته باشد.</string>
     <string name="myprojects_settings_message_package_rename">این پروژه با Firebase مرتبط است. اگر نام بسته را تغییر دهید ممکن است Firebase به درستی کار نکند.</string>
     <string name="myprojects_settings_version_control_title">کنترل نسخه</string>
     <string name="myprojects_settings_version_control_title_code">کد</string>
@@ -464,7 +462,7 @@ ex)\"users/username\""</string>
     <string name="picker_color_already_exist">این رنگ از قبل وجود دارد</string>
     <string name="picker_color_custom_color_not_found">رنگ سفارشی پیدا نشد</string>
     <string name="picker_color_hint_enter_hex_color_code">کد رنگ هگز را وارد کنید</string>
-    <string name="picker_color_xml_is_empty">colors.xml خالی است</string>
+    <string name="picker_color_xml_is_empty">فایل colors.xml خالی است</string>
     <string name="picker_color_message_delete_custom_color">آیا مطمئن هستید که می خواهید ادامه دهید؟ این عمل قابل لغو نیست.</string>
     <string name="picker_color_title_delete_all_custom_color">تمام رنگ های سفارشی را حذف کنید</string>
     <string name="picker_color_title_delete_custom_color">رنگ سفارشی را حذف کنید</string>
@@ -495,7 +493,7 @@ ACTION_CALL، ACTION_DIAL
 
 ACTION_VIEW
  نوع url (http://sketchware.io)"</string>
-    <string name="property_description_edittext_ime_options">"It does not work when single_line is 'false' and input_type is 'text'"</string>
+    <string name="property_description_edittext_ime_options">این گزینه زمانی کار نمی‌کند که single_line برابر false و input_type برابر text باشد.</string>
     <string name="property_divider_height">ارتفاع تقسیم کننده</string>
     <string name="property_first_day_of_week">اولین روز هفته</string>
     <string name="property_gravity">جاذبه</string>
@@ -509,7 +507,7 @@ ACTION_VIEW
     <string name="property_hint_color">رنگ اشاره</string>
     <string name="property_hint_enter_value">مقدار را وارد کنید</string>
     <string name="property_id">شناسه</string>
-    <string name="property_ime_option">گزینه Ime</string>
+    <string name="property_ime_option">گزینه ورودی صفحه‌کلید</string>
     <string name="property_indeterminate">نامشخص</string>
     <string name="property_input_type">نوع ورودی</string>
     <string name="property_layout_gravity">گرانش چیدمان</string>
@@ -583,7 +581,7 @@ ACTION_VIEW
     <string name="component_description_date_picker_dialog">گفتگو برای انتخاب تاریخ</string>
     <string name="component_description_time_picker_dialog">برای انتخاب زمان گفتگو کنید</string>
     <string name="component_description_notification">اعلان ایجاد کنید</string>
-    <string name="logic_editor_title_select_component">Component را انتخاب کنید</string>
+    <string name="logic_editor_title_select_component">انتخاب مؤلفه</string>
     <string name="component_description_fragment_adapter">FragmentStatePagerAdapter از TabLayout و ViewPager برای مدیریت هر صفحه استفاده می کند.</string>
     <string name="design_drawer_menu_injection">مدیر AppCompat</string>
     <string name="design_drawer_menu_injection_subtitle">طرح بندی AppCompat را تغییر دهید</string>
@@ -618,8 +616,8 @@ ACTION_VIEW
     <string name="local_library_manager_skip_downloading_dependencies">از دانلود وابستگی های فرعی صرف نظر کنید</string>
     <string name="signatures_title">امضاها</string>
     <string name="settings_appearance">ظاهر</string>
-    <string name="settings_appearance_description">ظاهر Sketchware را تغییر دهید</string>
-    <string name="settings_appearance_theme">تم Sketchware</string>
+    <string name="settings_appearance_description">تغییر ظاهر برنامه</string>
+    <string name="settings_appearance_theme">پوسته برنامه</string>
     <string name="settings_appearance_theme_system">پیش فرض سیستم</string>
     <string name="settings_appearance_theme_light">تم سبک</string>
     <string name="settings_appearance_theme_dark">تم تاریک</string>
@@ -656,14 +654,14 @@ ACTION_VIEW
     <string name="delete_project_dialog_title">پروژه را حذف کنید</string>
     <string name="delete_project_dialog_message">آیا مطمئن هستید که می خواهید این پروژه با نام %1$s را حذف کنید؟</string>
     <string name="src_code_editor_unsaved_changes_dialog_warning_message">شما تغییرات ذخیره نشده ای دارید. آیا مطمئن هستید که می خواهید خارج شوید؟</string>
-    <string name="change_firebase_config_title">تنظیمات Firebase را تغییر دهید</string>
+    <string name="change_firebase_config_title">تغییر تنظیمات Firebase</string>
     <string name="edit_view_properties_title">ویرایش ویژگی ها</string>
     <string name="search_in_palettes_dialog_title">جستجو در پالت ها</string>
     <string name="search">جستجو کنید</string>
     <string name="search_error_message">چیزی پیدا نشد،\nدوباره با چیز دیگری امتحان کنید</string>
     <string name="search_header">"جستجو…"</string>
     <string name="strings_xml">strings.xml</string>
-    <string name="xml_strings">رشته های XML</string>
+    <string name="xml_strings">رشته‌های XML</string>
 
     <string name="create_new_widget">یک ویجت ایجاد کنید</string>
     <string name="import_widgets">وارد کردن ابزارک ها</string>
@@ -725,7 +723,7 @@ ACTION_VIEW
     <string name="remote_debug_read_logs">شروع ضبط گزارش</string>
     <string name="remote_debug_stop_logs">ضبط گزارش را متوقف کنید</string>
     <string name="remote_debug_logs_stopped">ضبط گزارش متوقف شد. دوباره وصل شوید یا دوباره ضبط را شروع کنید.</string>
-    <string name="remote_debug_open_logcat">Logcat را باز کنید</string>
+    <string name="remote_debug_open_logcat">باز کردن گزارش برنامه</string>
     <string name="remote_debug_logcat_source">از راه دور · %1$s</string>
     <string name="remote_debug_configure">قبل از اجرای این پروژه دستگاه اشکال زدایی بی سیم را راه اندازی کنید.</string>
     <string name="remote_debug_advanced">اتصال پیشرفته</string>
@@ -771,7 +769,7 @@ ACTION_VIEW
     <string name="pref_backup_filename_format">فرمت نام فایل پشتیبان</string>
     <string name="pref_show_floating_build_progress_when">هنگامی که Sketchware Pro متوقف شده است، پیشرفت ساخت شناور را نشان دهید. به مجوز همپوشانی نیاز دارد.</string>
     <string name="pref_background_building">ساختمان پس زمینه</string>
-    <string name="msg_add_to_androidmanifest">به AndroidManifest اضافه کنید</string>
+    <string name="msg_add_to_androidmanifest">افزودن به AndroidManifest</string>
     <string name="msg_edit_with">ویرایش با...</string>
     <string name="msg_filter_by_package_name">بر اساس نام بسته فیلتر کنید</string>
     <string name="msg_clear_all_logs">تمام لاگ ها را پاک کنید</string>
@@ -789,12 +787,12 @@ ACTION_VIEW
     <string name="msg_code_variable_name">کد (### =&gt; نام متغیر)</string>
     <string name="msg_independent_class_method"> کلاس/روش مستقل</string>
     <string name="msg_use_moreblockname_type_typename_or">از (moreblockName[type|typeName] یا\nmoreblockName[type|typeName|typeCode]) برای نوع (S) بیشتر بلوک سفارشی استفاده کنید</string>
-    <string name="msg_select_moreblock_type">نوع Moreblock را انتخاب کنید</string>
+    <string name="msg_select_moreblock_type">انتخاب نوع بلوک بیشتر</string>
     <string name="msg_this_icon_is_available_under">این نماد تحت مجوز Apache نسخه 2.0 در دسترس است. برای خواندن ادامه مطلب را فشار دهید</string>
     <string name="msg_this_is_how_your_font">فونت شما اینگونه به نظر می رسد.</string>
     <string name="msg_add_to_my_collection">به مجموعه من اضافه کنید</string>
     <string name="msg_follow_system_theme_settings">تنظیمات تم سیستم را دنبال کنید</string>
-    <string name="msg_logcat_hasn_t_captured_anything">Logcat هنوز چیزی نگرفته است</string>
+    <string name="msg_logcat_hasn_t_captured_anything">گزارش برنامه هنوز چیزی ثبت نکرده است</string>
     <string name="msg_keep_this_screen_open_then">این صفحه را باز نگه دارید سپس برنامه خود را اجرا کنید</string>
     <string name="msg_version_name_extra">نام نسخه اضافی</string>
     <string name="msg_manage_custom_attribute">مدیریت ویژگی سفارشی</string>
@@ -818,7 +816,7 @@ ACTION_VIEW
     <string name="msg_while_you_wait">در حالی که منتظری...</string>
     <string name="msg_search_for_libraries">جستجو برای کتابخانه ها</string>
     <string name="msg_search_for_projects">جستجوی پروژه ها...</string>
-    <string name="msg_export_sign">Export/Sign</string>
+    <string name="msg_export_sign">خروجی و امضا</string>
     <string name="msg_change_project_settings">تنظیمات پروژه را تغییر دهید</string>
     <string name="msg_enter_a_name">یک نام وارد کنید</string>
     <string name="msg_json_file_with_palettes">فایل JSON با پالت</string>
@@ -828,12 +826,12 @@ ACTION_VIEW
     <string name="msg_classpath_separated_by">مسیر کلاس \'جدا شده توسط :\'</string>
     <string name="msg_hide_warnings_in_error_log">پنهان کردن هشدارها در گزارش خطا</string>
     <string name="msg_don_t_include_http_legacy">http-legacy-28.dex را وارد نکنید</string>
-    <string name="msg_enable_debug_logcat_logs_viewable">Enable Logcat Debug Logcat قابل مشاهده در Logcat Reader. در AAB/APKهای صادر شده فعال نیست.</string>
+    <string name="msg_enable_debug_logcat_logs_viewable">فعال کردن گزارش اشکال‌زدایی Logcat؛ گزارش‌ها در بخش گزارش برنامه قابل مشاهده هستند. این قابلیت در APK و AAB خروجی فعال نیست.</string>
     <string name="msg_enter_the_new_name">نام جدید را وارد کنید</string>
     <string name="msg_rename_occurrences_in_file">تغییر نام رخدادها در فایل</string>
     <string name="msg_m_view_change_background_colour">%m.view تغییر رنگ پس زمینه %m.color</string>
     <string name="msg_create_new_view">نمای جدید ایجاد کنید</string>
-    <string name="msg_enter_padding_value">مقدار padding را وارد کنید</string>
+    <string name="msg_enter_padding_value">مقدار فاصله داخلی را وارد کنید</string>
     <string name="msg_padding_on_all_sides">لایی از هر طرف</string>
     <string name="msg_enter_item_name">نام مورد را وارد کنید</string>
     <string name="msg_enter_item_value">مقدار مورد را وارد کنید</string>
@@ -863,7 +861,7 @@ ACTION_VIEW
     <string name="msg_remove_old_deprecated_methods">روش های قدیمی منسوخ را حذف کنید</string>
     <string name="msg_this_will_remove_methods_in">این روش‌ها را در فایل‌ها حذف می‌کند، مانند showMessage، getDip و غیره.</string>
     <string name="msg_this_will_replace_e_g">این جایگزین به عنوان مثال دکمه با MaterialButton، مراقب باشید!</string>
-    <string name="msg_apk_path_will_appear_here">مسیر APK در اینجا ظاهر می شود</string>
+    <string name="msg_apk_path_will_appear_here">مسیر فایل APK اینجا نمایش داده می‌شود</string>
     <string name="msg_this_is_still_a_basic">این هنوز یک اجرای اساسی از فروشگاه پروژه ها است. ما فعالانه در حال کار بر روی بهبود آن هستیم. با ما همراه باشید!</string>
     <string name="msg_editor_s_choice">"انتخاب سردبیر"</string>
     <string name="msg_new_amp_updated">جدید و به روز شده</string>
@@ -879,13 +877,13 @@ ACTION_VIEW
     <string name="msg_last_compile_log">آخرین گزارش کامپایل</string>
     <string name="msg_awesome_no_bugs_to_fix">عالی، بدون اشکال برای رفع!</string>
     <string name="msg_let_s_continue_working_on">بیایید به کار روی پروژه ادامه دهیم</string>
-    <string name="msg_select_import_option">گزینه Import را انتخاب کنید</string>
+    <string name="msg_select_import_option">انتخاب روش وارد کردن</string>
     <string name="msg_merge_and_skip">ادغام و پرش</string>
     <string name="msg_merge_and_replace">ادغام و جایگزینی</string>
     <string name="msg_color_hex_code">کد هگز رنگی</string>
     <string name="msg_the_generated_aab_file_must">"فایل .aab ایجاد شده باید امضا شود.\nفروشگاه کلید خود را در /Internal storage/sketchware/keystore/release_key.jks کپی کنید و رمز عبور نام مستعار را وارد کنید."</string>
     <string name="common_word_understood">"فهمیده"</string>
-    <string name="title_finished_exporting_aab">"صادرات AAB به پایان رسید"</string>
+    <string name="title_finished_exporting_aab">ساخت خروجی AAB به پایان رسید</string>
     <string name="msg_click_on_confirm_to_delete">"برای حذف رویداد انتخاب شده روی تایید کلیک کنید."</string>
     <string name="title_add_new_attribute">"افزودن ویژگی جدید"</string>
     <string name="title_missing_directory_detected">"دایرکتوری گم شده شناسایی شد"</string>
@@ -895,7 +893,7 @@ ACTION_VIEW
     <string name="common_word_back_up">"پشتیبان گیری"</string>
     <string name="msg_reset_excluded_built_in_libraries">"بازنشانی کتابخانه های داخلی حذف شده؟ این عمل قابل واگرد نیست."</string>
     <string name="title_select_built_in_libraries">"انتخاب کتابخانه های داخلی"</string>
-    <string name="title_sign_apk_with_testkey">"ثبت APK با کلید تست"</string>
+    <string name="title_sign_apk_with_testkey">امضای APK با کلید آزمایشی</string>
     <string name="common_word_overwrite">"بازنویسی"</string>
     <string name="common_word_defaults">"پیش فرض ها"</string>
     <string name="msg_this_block_menu_was_initially">"این منوی بلوک ابتدا برای تجزیه مقادیر منابع استفاده می شد، اما ورودی/خروجی بسیار سنگینی داشت و به همین دلیل حذف شده است. لطفاً به جای آن از ویرایشگر کد استفاده کنید."</string>

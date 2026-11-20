@@ -471,7 +471,7 @@
     <string name="root_spec_on_ad_failed_to_load_head" translatable="false">onAdFailedToLoad</string>
     <string name="root_spec_on_ad_loaded_head" translatable="false">onAdLoaded</string>
     <string name="root_spec_on_ad_opened_head" translatable="false">onAdOpened</string>
-    <string name="root_spec_on_animation_cancel_head" translatable="false">در Animation Cancel</string>
+    <string name="root_spec_on_animation_cancel_head" translatable="false">لغو انیمیشن</string>
     <string name="root_spec_on_animation_end_head" translatable="false">در AnimationEnd</string>
     <string name="root_spec_on_animation_start_head" translatable="false">در AnimationStart</string>
     <string name="root_spec_on_back_pressed_head" translatable="false">روی دکمه برگشت فشار دهید</string>
